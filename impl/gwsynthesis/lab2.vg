@@ -1,0 +1,40 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Mon Nov  2 10:13:42 2026
+
+//Source file index table:
+//file0 "\D:/FAP201(bailam)/LAB2/src/lab2.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+Ash2Klwj6keB0iYW53zly5RndF6vgM38sDgTckrDlwkOb8SopF+2yQD/rdKT7A0Nfn34CzmA5Dhp
+CZciV4ORrTFUBNNo0f4faDX805O/owkgjJVDrauzzHk8Av7c1xJQt5FxzzNx3PuyHcgeSjZq+wzI
+k//rgGoofSxOx/o8zp7If6UYUq01748XH3sfgPAiUEW1wUZjWP6nQs7JQ3xUWL86ofdTnYYGz0Tl
+WwN+ZXlSfl0eXhDeOD8x0zQNH41s93C+jGFttKqGaHBiig+6n5XtQI9hHVtmt9S/Heiz4Vu3vV+N
+/dpcZvYJUXRfDFPINjgkJr8u/+zwzgozwz1s5Q==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=576)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+FLVUKAgEK5I0fgGAX193GcT80Ia8S6VJUhmubGPfEaJdw6gyOYZYvvREZpZMdGQw5N4YrIS4yZ5/
+7iqgxIqK+yd2wBJF507uwDfuT/yIpH2sKrSCWChr7TtD6K5rJN+W2CcuYjVmA/vXetLBeAl9HQMK
+IGrkkyLPoubFseDYc7QAG3gRzd5xghAiyuHcdLWMjWrJ4f5vfgPu/ELqu1KCDaIo+MAcCN851BYU
+LvuE9il7uQ2FcrBlBXL6bRjZ9ikbmfC3IA5SsppZbgck25EGF4SlOWeZBhnLIO4GtRlFDeCfb3vA
+8/rkjPUBXwSNJ2YlZfqkeg8sSR2AX9vscpEWXH4a3Aevf/9dFyusltaxSWPiYE6lIZiuEvcUw/GN
+zVtnMk0VdCf9BeDEA9MDSn89NwjQNQLY0XThfENzXej0nV2vF1cdgZONkatS9WuF0q9dn82FyqUv
+F5JrvucQ7aCbC2KqTNGJw9Z7n7mXLr80+Km6FAtLju5mmz9fCNpta5JVT3mqeYT+vvxvcw+sGvGX
+HCsMvoKjx5PnT1JVZyUplIHDic5A46xjm763bbwNHCuuKwq82YsB6JijZSy8ImKK6hbexJMEdfoY
+TJyCQPKXGNcUL44SfdprcafljtF6ctsIGpHtc8muXCt7Aya1XAzK+OowPlp2Uu5WiQK9fE9d2jAr
+ZAH2iV7sRFMAKc8kednlYO0e2Ig7uKOkjfEXPVGmvWJsJ9wXgpRJFTKOIqQp4RhSwcORRGr3s1a2
+8YnA4CKC
+`pragma protect end_protected

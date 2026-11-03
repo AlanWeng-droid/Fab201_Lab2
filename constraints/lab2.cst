@@ -1,0 +1,16 @@
+//==============================================================================
+// FAP201 - Lab 2: Lighting an LED with Logic Gates
+// Physical Constraints File (.cst) for Xiaomeige ACG525 Gowin FPGA Board
+// Target Device: GW5A-LV25UG324C2/I1 (GW5A-25A, UBGA324)
+//==============================================================================
+
+// 2 Switch Inputs (KEY0, KEY1)
+IO_LOC "i_sw1" B16;
+IO_PORT "i_sw1" PULL_MODE=UP DRIVE=OFF BANK_VCCIO=3.3;
+
+IO_LOC "i_sw2" A15;
+IO_PORT "i_sw2" PULL_MODE=UP DRIVE=OFF BANK_VCCIO=3.3;
+
+// 1 LED Output (LED0)
+IO_LOC "o_led" D14;
+IO_PORT "o_led" PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
